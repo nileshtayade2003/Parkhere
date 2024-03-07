@@ -1,3 +1,3 @@
 <?php
-$conn = mysqli_connect('localhost','root','','minor');
+$conn = mysqli_connect('localhost','root','','parking');
 ?>
