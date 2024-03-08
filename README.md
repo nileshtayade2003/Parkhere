@@ -2,29 +2,9 @@
 
 Welcome to ParkHere, a comprehensive car parking management system designed and developed with a user-friendly interface. This system is built using HTML, CSS, JS, PHP, and MySQL, offering multiuser functionality for Admin, User, and Ticket Checker. The features include User Authentication, Registration, QR code generation for tickets, Scanner at the ticket checker side, integrated payment gateway, and deployment on Infinity-free web hosting.
 
-## Table of Contents
-1. [How to Use](#how-to-use)
-   - [User](#user)
-   - [Ticket Checker](#ticket-checker)
-   - [Admin](#admin)
-
-2. [User Guide](#user-guide)
-   - [Registration and Login](#registration-and-login)
-   - [Booking a Parking Slot](#booking-a-parking-slot)
-   - [Viewing and Downloading Bookings](#viewing-and-downloading-bookings)
-   - [Parking Process](#parking-process)
-
-3. [Ticket Checker Guide](#ticket-checker-guide)
-   - [Credentials](#credentials)
-   - [Checking In and Out](#checking-in-and-out)
-   - [Ticket Verification](#ticket-verification)
-
-4. [Admin Guide](#admin-guide)
-   - [Credentials](#credentials)
-   - [User Management](#user-management)
-   - [Parking Cost Management](#parking-cost-management)
-   - [Booking and Log Overview](#booking-and-log-overview)
-
+## Live link
+ [Go to parkhere.42web.io](parkhere.42web.io)
+ 
 ## How to Use
 
 ### User
@@ -75,6 +55,6 @@ Welcome to ParkHere, a comprehensive car parking management system designed and 
 
 ---
 
-This system offers a seamless experience for users, ticket checkers, and administrators. For further inquiries or issues, please contact our support team.
+This system offers a seamless experience for users, ticket checkers, and administrators. For further inquiries or issues, please contact  [nileshtayade2003@gmail.com](nileshtayade2003@gmail.com).
 
 **Happy Parking!**
