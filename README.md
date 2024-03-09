@@ -26,30 +26,27 @@ Welcome to ParkHere, a comprehensive car parking management system designed and 
 
 ### Ticket Checker
 1. **Credentials**
-   - Username: tc
-   - Password: tc
-
-2. **Checking In and Out**
+ For enquiry contact me: 9673466829
+3. **Checking In and Out**
    - Scan the ticket and enter the car number for check-in.
    - Repeat the process for check-out.
    - The ticket is one-time-use only.
 
-3. **Ticket Verification**
+4. **Ticket Verification**
    - On the third attempt, the system will indicate if the ticket is already used or expired.
    - If an invalid ticket is presented, the system will prompt accordingly.
 
 ### Admin
 1. **Credentials**
-   - Username: admin
-   - Password: admin
+  For enquiry contact me: 9673466829
 
-2. **User Management**
+3. **User Management**
    - View all user details within the system.
 
-3. **Parking Cost Management**
+4. **Parking Cost Management**
    - View and update parking costs.
 
-4. **Booking and Log Overview**
+5. **Booking and Log Overview**
    - Access details of all bookings made.
    - View parking logs with essential information.
 
