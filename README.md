@@ -13,11 +13,11 @@ Welcome to ParkHere, a comprehensive car parking management system designed and 
    
 2. **Booking a Parking Slot**
    - View parking cost per hour.
+   - Check available parking slots for the selected duration.
    - Book a parking slot for a specific date and time duration.
    - Make payment to receive a ticket with a QR code.
 
 3. **Viewing and Downloading Bookings**
-   - Check available parking slots for the selected duration.
    - View all bookings and download booking tickets in PNG format.
 
 4. **Parking Process**
@@ -29,7 +29,7 @@ Welcome to ParkHere, a comprehensive car parking management system designed and 
  For enquiry contact me: 9673466829
 3. **Checking In and Out**
    - Scan the ticket and enter the car number for check-in.
-   - Repeat the process for check-out.
+   - Scan the same ticket for check-out.
    - The ticket is one-time-use only.
 
 4. **Ticket Verification**
