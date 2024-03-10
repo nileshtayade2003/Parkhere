@@ -2,7 +2,7 @@
 
 Welcome to ParkHere, a comprehensive car parking management system designed and developed with a user-friendly interface.
 This system is built using HTML, CSS, JS, PHP, and MySQL, offering multiuser functionality for Admin, User, and Ticket Checker.
-The features include User Authentication, Registration, QR code generation for tickets, Scanner at the ticket checker side, integrated payment gateway, and deployment on Infinity-free web hosting.
+The features include User Authentication, Registration, QR code generation for tickets, Scanner at the ticket checker side, and deployment on Infinity-free web hosting.
 
 ## Live link
  <a href="https://parkhere.42web.io" target="_blank">Go to Parkhere.42web.io</a>
