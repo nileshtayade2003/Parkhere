@@ -1,6 +1,8 @@
 # ParkHere - QR-Based Car Parking Management System
 
-Welcome to ParkHere, a comprehensive car parking management system designed and developed with a user-friendly interface. This system is built using HTML, CSS, JS, PHP, and MySQL, offering multiuser functionality for Admin, User, and Ticket Checker. The features include User Authentication, Registration, QR code generation for tickets, Scanner at the ticket checker side, integrated payment gateway, and deployment on Infinity-free web hosting.
+Welcome to ParkHere, a comprehensive car parking management system designed and developed with a user-friendly interface.
+This system is built using HTML, CSS, JS, PHP, and MySQL, offering multiuser functionality for Admin, User, and Ticket Checker.
+The features include User Authentication, Registration, QR code generation for tickets, Scanner at the ticket checker side, integrated payment gateway, and deployment on Infinity-free web hosting.
 
 ## Live link
  <a href="https://parkhere.42web.io" target="_blank">Go to Parkhere.42web.io</a>
@@ -22,11 +24,11 @@ Welcome to ParkHere, a comprehensive car parking management system designed and 
 
 4. **Parking Process**
    - Go to the parking lot with the generated ticket.
-   - Present the ticket to park the car.
+   - Present the ticket to ticket checker to park the car.
 
 ### Ticket Checker
-1. **Credentials**
- For enquiry contact me: 9673466829
+1. **login**
+    -there is only one ticket checker for the system
 3. **Checking In and Out**
    - Scan the ticket and enter the car number for check-in.
    - Scan the same ticket for check-out.
@@ -37,10 +39,10 @@ Welcome to ParkHere, a comprehensive car parking management system designed and 
    - If an invalid ticket is presented, the system will prompt accordingly.
 
 ### Admin
-1. **Credentials**
-  For enquiry contact me: 9673466829
+1. **login**
+  -there is also only one admin for system
 
-3. **User Management**
+3. **View all users**
    - View all user details within the system.
 
 4. **Parking Cost Management**
