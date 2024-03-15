@@ -6,6 +6,10 @@ The features include User Authentication, Registration, QR code generation for t
 
 ## Live link
  <a href="https://parkhere.42web.io" target="_blank">Go to Parkhere.42web.io</a>
+
+## Linkedin post for demo
+ <a href="[https://parkhere.42web.io](https://www.linkedin.com/posts/nilesh-tayade-541205244_parkhere-parkhere-parkhere-activity-7172600125746212864-Ewk0?utm_source=share&utm_medium=member_desktop)" target="_blank">Go to Post</a>
+
  
 ## How to Use
 
